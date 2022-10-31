@@ -1,7 +1,7 @@
 # Getting started
-The guide for setting up a quick switchboard is found here: https://46elks.com/tutorials/quick-switchboard
-This was also made as an workshop during PyCon 2022. The workshop page is found here: https://46elks.com/pycon-ws
-A recording of this workshop is found here: (TBA)
+- The guide for setting up a quick switchboard is found here: https://46elks.com/tutorials/quick-switchboard
+- This was also made as an workshop during PyCon 2022. The workshop page is found here: https://46elks.com/pycon-ws
+- A recording of this workshop during PyCon is found here: (TBA)
 
 ## Config
 - `baseurl = "http://yourdomain.com"`
